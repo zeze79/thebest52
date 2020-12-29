@@ -1,6 +1,11 @@
 ## 강화학습(Actor-Critic Network)을 기반으로 하는 추천 시스템 
 
 
+
+<img width="550" alt="KakaoTalk_Image_2020-12-29-19-14-24" src="https://user-images.githubusercontent.com/42932125/103276501-16591f80-4a0a-11eb-80f0-d12feae1e374.png">  
+
+### 해커톤 우수팀으로 선정
+
 ## Team 
 
 - 최재희
